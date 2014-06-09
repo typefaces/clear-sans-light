@@ -1,0 +1,18 @@
+{
+  "name": "clear-sans-light",
+  "repo": "typefaces/clear-sans-light",
+  "description": "clear sans light typeface",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ], 
+  "fonts": [
+    "fonts/clear-sans-light.eot",
+    "fonts/clear-sans-light.ttf",
+    "fonts/clear-sans-light.woff"
+  ]
+}
